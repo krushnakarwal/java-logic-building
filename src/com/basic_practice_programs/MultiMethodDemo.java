@@ -3,7 +3,7 @@
 Call both in order using a single object. */
 
 
-package com.basics_programs;
+package com.basic_practice_programs;
 
 public class MultiMethodDemo 
 {

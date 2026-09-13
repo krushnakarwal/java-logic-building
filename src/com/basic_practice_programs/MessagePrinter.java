@@ -3,7 +3,7 @@
 Call it using an object in the main method.*/
 
 
-package com.basics_programs;
+package com.basic_practice_programs;
 
 public class MessagePrinter 
 {

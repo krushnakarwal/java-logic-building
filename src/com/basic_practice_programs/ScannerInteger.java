@@ -1,7 +1,7 @@
 // Write a program to take a whole number from the keyboard
 // using Scanner and print it.
 
-package com.basics_programs;
+package com.basic_practice_programs;
 
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@
 // stepThree(). Inside stepOne(), call stepTwo(). Inside stepTwo(),
 // call stepThree(). In your main method, call only stepOne().
 
-package com.basics_programs;
+package com.basic_practice_programs;
 
 public class MethodChaining 
 {
