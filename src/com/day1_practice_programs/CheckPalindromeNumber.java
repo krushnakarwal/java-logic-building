@@ -1,13 +1,17 @@
+// Write a program to check number is palindrome or not
+
+
+
 package com.day1_practice_programs;
 
 import java.util.Scanner;
 
 public class CheckPalindromeNumber 
 {
-	public void palindromeNumber(int originalNumber, int number)
+	public void palindromeNumber(int number)
 	{
 	
-	int originalnumber = originalNumber;
+	int originalNumber = number;
 	int reverseNumber = 0;
 	
 	while(number > 0)
@@ -19,11 +23,11 @@ public class CheckPalindromeNumber
 	
 	if(originalNumber == reverseNumber)
 	{
-		System.out.println(originalnumber+": is Palindrome number ");
+		System.out.println(originalNumber+": is Palindrome number ");
 	}
 	else
 	{
-		System.out.println(originalnumber+": is Not palindrome number");
+		System.out.println(originalNumber+": is Not palindrome number");
 	}
 	
 }
@@ -31,14 +35,11 @@ public class CheckPalindromeNumber
 	{
 		Scanner sc = new Scanner(System.in);
 	    
-	    System.out.println("Enter a original number :");
-	    int originalNumber = sc.nextInt();
-	    
 	    System.out.println("Enter a number :");
 	    int number = sc.nextInt();
 	    
 	    CheckPalindromeNumber obj = new CheckPalindromeNumber();
-	    obj.palindromeNumber(originalNumber,number);  
+	    obj.palindromeNumber(number);  
 	    
 	    sc.close();
 		
