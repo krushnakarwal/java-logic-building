@@ -1,7 +1,7 @@
 // Write a program accept a string from user and display string  palindrome  or not.
 
 
-package com.day1_practice_programs;
+package com.practice_programs;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 // What is the output of the following code snippet?
 
 
-package com.day2_practice_programs;
+package com.logic_practice_programs;
 
 public class Predict_output_2 
 {

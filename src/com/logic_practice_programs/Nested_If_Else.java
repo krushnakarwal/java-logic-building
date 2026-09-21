@@ -1,7 +1,7 @@
 // What will be the output of the following code?
 
 
-package com.day2_practice_programs;
+package com.logic_practice_programs;
 
 public class Nested_If_Else 
 {

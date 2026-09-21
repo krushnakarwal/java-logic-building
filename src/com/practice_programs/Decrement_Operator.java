@@ -1,7 +1,7 @@
 // What will be output of the following code snippet?
 
 
-package com.day1_practice_programs;
+package com.practice_programs;
 
 public class Decrement_Operator 
 {

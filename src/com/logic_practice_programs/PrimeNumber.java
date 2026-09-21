@@ -1,4 +1,4 @@
-package com.day2_practice_programs;
+package com.logic_practice_programs;
 
 import java.util.Scanner;
 

@@ -2,7 +2,7 @@
 
 
 
-package com.day1_practice_programs;
+package com.practice_programs;
 
 import java.util.Scanner;
 

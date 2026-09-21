@@ -1,7 +1,7 @@
 // Write a program Take a year and check if it's a leap year or not.
 
 
-package com.day1_practice_programs;
+package com.practice_programs;
 
 import java.util.Scanner;
 
