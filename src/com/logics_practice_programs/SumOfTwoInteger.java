@@ -1,6 +1,6 @@
 // Write a program thats print the sum of two numbers?
 
-package com.krushna.logic.day_1;
+package com.logics_practice_programs;
 import java.util.*;
 public class SumOfTwoInteger 
 {

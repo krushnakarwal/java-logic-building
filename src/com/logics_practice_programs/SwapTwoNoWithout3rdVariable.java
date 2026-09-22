@@ -1,4 +1,4 @@
-package com.krushna.logic.day_1;
+package com.logics_practice_programs;
 
 import java.util.Scanner;
 
