@@ -3,7 +3,7 @@
 and prints "Hello " + name. Pass "Krushna" from the main method. */
 
 
-package com.basic_practice_programs;
+package com.day1_practice_programs;
 
 public class GreetingApp 
 {

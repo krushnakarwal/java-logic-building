@@ -1,7 +1,7 @@
 // Create a class with a method that prints "Hello Software developer". 
 // Call it using an object in the main method.
 
-package com.basic_practice_programs;
+package com.day1_practice_programs;
 
 public class ClassStructureDemo 
 {

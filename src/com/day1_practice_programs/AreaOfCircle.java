@@ -1,4 +1,4 @@
-package com.basic_practice_programs;
+package com.day1_practice_programs;
 
 public class AreaOfCircle 
 {

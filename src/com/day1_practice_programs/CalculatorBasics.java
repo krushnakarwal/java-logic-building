@@ -3,7 +3,7 @@
 // passing 10 and 20.
  
 
-package com.basic_practice_programs;
+package com.day1_practice_programs;
 
 public class CalculatorBasics 
 {
