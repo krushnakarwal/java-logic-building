@@ -1,4 +1,4 @@
-package com.day1_practice_programs;
+package com.day6_practice_programs;
 
 public class PredictTheOutput 
 {
