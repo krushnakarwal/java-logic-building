@@ -2,7 +2,7 @@
 // from the user and print it.
 
 
-package com.scanner_practice_programs;
+package com.day4_practice_programs;
 
 import java.util.Scanner;
 

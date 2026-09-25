@@ -1,4 +1,4 @@
-package com.logic_practice_programs;
+package com.day2_practice_programs;
 
 public class If_Ladder 
 {

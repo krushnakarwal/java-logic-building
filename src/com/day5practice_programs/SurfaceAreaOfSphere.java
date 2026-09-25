@@ -1,4 +1,4 @@
-package com.practice_programs;
+package com.day5practice_programs;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 // Write a program Take three numbers and find the biggest one using if-else.
 
-package com.practice_programs;
+package com.day5practice_programs;
 
 import java.util.Scanner;
 

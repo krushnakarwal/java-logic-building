@@ -1,7 +1,7 @@
 // Write a scanner program, call sc.close() at the end, and try to write another
 // sc.nextInt() below it to observe the IllegalStateException error in the console.
 
-package com.scanner_practice_programs;
+package com.day4_practice_programs;
 
 import java.util.Scanner;
 
