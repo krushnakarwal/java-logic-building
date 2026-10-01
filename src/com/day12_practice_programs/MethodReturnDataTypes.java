@@ -1,6 +1,6 @@
 package com.day12_practice_programs;
 
-public class MethodReturnTypes 
+public class MethodReturnDataTypes 
 {
 
 	    // 1. BYTE (Small whole numbers: -128 to 127)
@@ -59,7 +59,7 @@ public class MethodReturnTypes
 
 	    // MAIN METHOD TO RUN EVERYTHING
 	    public static void main(String[] args) {
-	        MethodReturnTypes machine = new MethodReturnTypes();
+	        MethodReturnDataTypes machine = new MethodReturnDataTypes();
 	        System.out.println("=== STARTING THE ALL-DATA-TYPES TEST ===\n");
 
 	        // 1. Test Byte
